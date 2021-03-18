@@ -1,4 +1,4 @@
-module github.com/gofiliate/godb
+module github.com/gofiliate/db
 
 go 1.15
 

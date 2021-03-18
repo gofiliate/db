@@ -1,4 +1,4 @@
-package github.com/gofiliate/godb
+package github.com/gofiliate/db
 
 func LoadConfigExternal(mode string, username string , password string, host string, port int, database string) {
 
