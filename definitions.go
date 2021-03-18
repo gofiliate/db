@@ -1,4 +1,4 @@
-package github.com/gofiliate/db
+package db
 
 /*
  define out variables , split them by read / write capabilities

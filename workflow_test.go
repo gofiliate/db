@@ -1,4 +1,4 @@
-package github.com/gofiliate/db
+package db
 
 import (
 	"testing"
