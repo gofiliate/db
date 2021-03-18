@@ -4,7 +4,7 @@ A simple to use Go Module to handle seperate Read/Write connections to a MySql d
 ## Installation
 To add to your project
 ```go
-# sudo go get github.com/gofiliate/godb
+# sudo go get github.com/gofiliate/db
 ```
 
 ## Configuration
